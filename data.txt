@@ -1,0 +1,5 @@
+base : individual 
+
+index : machine driver and platform driver , codec driver 
+
+estimation: analysis and understanding and research 
